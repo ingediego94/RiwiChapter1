@@ -49,7 +49,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 | Costo operativo            | Alto                             | Medio, altamente eficiente              |
 | Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
 | Adaptabilidad al cambio    | Baja                             | Dinámica, cambiante de aprendizaje continuo |
-| Experiencia del usuario    | Baja                             | Alta menteeficiente                    |
+| Experiencia del usuario    | Baja                             | Altamente eficiente                    |
 | Alta integrabilidad        | Baja                             | Altamente integrable con muchos otros procesos|
 
 ## 5. Reflexión Personal
